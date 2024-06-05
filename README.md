@@ -12,11 +12,16 @@
 - Dari topologi yang telah dibuat, akan dibagi menjadi 21 subnet sebagai berikut:
 <img width="1572" alt="prak4jarkom" src="https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/faabf537-d351-4a0e-9940-14b7e4a63a66">
 
+## Tree VLSM
+- Perhitungan Pembagian Network ID dan Mask dilakukan berdasarkan jumlah host yang dibutuhkan untuk setiap subnet. Untuk mempermudah perhitungan, dibuat tree VLSM sebagai berikut
+![VLSM TREE](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/e7cba8ca-f9fa-45e7-87cf-543d8eba28d1)
+
+
 ## Tabel Rute
 ![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/51f0088c-5442-4f32-b545-bbe2d290be66)
 
 ## VLSM Routing - Konfigurasi IP
-| SUBNET  | NODE               | IP            | SUBNET MASK     | GETAWAY      |
+| SUBNET  | NODE               | IP            | SUBNET MASK     | GATEAWAY      |
 | ------- | ------------------ | ------------- | --------------- | -------      |
 | `A1`    | JAWA               | 10.64.21.177  | 255.255.255.252 |              |
 |         | SUMATERA           | 10.64.21.178  | 255.255.255.252 |              |
@@ -77,4 +82,23 @@
 |         | MADINI             | 10.64.21.2    | 255.255.255.192 | 10.64.21.1   |
 |         | BARU               | 10.64.21.3    | 255.255.255.192 | 10.64.21.1   |
 
+## Konfigurasi IP VLSM
+### Router
+- Untuk konfigurasi Router, pertama assign IP dan Gateaway masing-masing router di port Ethernet yang sesuai dengan subnet pada tabel diatas.
+- Contoh pada router Sumatera, kemudian lakukan ke semua router lainnya
+![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/a51d8d5d-ad6a-4f00-9362-44ab86e14494)
+
+### Client & Server
+- Konfigurasikan IP, Mask, dan Gateaway sesuai dengan tabel diatas.
+- Untuk server, tambahkan DNS Server sesuai dengan Subnet Mask
+- Contoh pada client Samosir dan server Sebesi , kemudian lakukan ke semua Client lainnya
+![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/f7d08fa1-da2d-47e8-a4d8-81cb03b77616)
+![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/c56fe1bd-ae2c-4788-9ef8-fb0853a5f202)
+
+## Konfigurasi Routing
+### Aceh
+![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/e63622f4-64a1-4969-8416-1a387f4f87b9)
+
+### Lampung
+![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/40ee7734-ce53-41f8-8c86-6d0265e52852)
 
