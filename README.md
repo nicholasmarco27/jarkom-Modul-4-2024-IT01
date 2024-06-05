@@ -5,8 +5,6 @@
 | 5027221042 |Nicholas Marco Weinandra |
 | 5027221052 | Mochamad Zidan Hadipratama |
 
-# Topologi
-
 # VLSM
 ## Pembagian Subnet
 - Dari topologi yang telah dibuat, akan dibagi menjadi 21 subnet sebagai berikut:
@@ -19,6 +17,7 @@
 
 ## Tabel Rute
 ![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/51f0088c-5442-4f32-b545-bbe2d290be66)
+- Seluruh tabel konfigurasi dapat diakses di ![Spreadsheet](https://docs.google.com/spreadsheets/d/1RL2BdBl5x0_Xb2JlqtW23DPWq-ls2nR4lkPZ1q0Z_uA/edit?usp=sharing) berikut
 
 ## Tabel IP VLSM
 | SUBNET  | NODE               | IP            | SUBNET MASK     | GATEAWAY      |
