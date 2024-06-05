@@ -20,7 +20,7 @@
 ## Tabel Rute
 ![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/51f0088c-5442-4f32-b545-bbe2d290be66)
 
-## VLSM Routing - Konfigurasi IP
+## Tabel IP VLSM
 | SUBNET  | NODE               | IP            | SUBNET MASK     | GATEAWAY      |
 | ------- | ------------------ | ------------- | --------------- | -------      |
 | `A1`    | JAWA               | 10.64.21.177  | 255.255.255.252 |              |
