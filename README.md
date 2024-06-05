@@ -98,15 +98,15 @@
 ## Konfigurasi Routing
 ### Aceh
 ![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/e63622f4-64a1-4969-8416-1a387f4f87b9)
-0.0.0.0 berarti mengambil semua pesan dan diarahkan ke next hop Sumatera Utara
+- 0.0.0.0 berarti mengambil semua pesan dan diarahkan ke next hop Sumatera Utara
 
 ### Lampung
 ![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/40ee7734-ce53-41f8-8c86-6d0265e52852)
-Next hop ke Sumatera
+- Next hop ke Sumatera
 
 ### Sumatera Utara
 ![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/9c00a222-9f70-49f4-ae07-9f00e6b56297)
-Pada Sumatera Utara, kita mengarahkan ke subnet 20.0 (A4) dan 21.187 (A5) dengan next hop ke Aceh
+- Pada Sumatera Utara, kita mengarahkan ke subnet 20.0 (A4) dan 21.187 (A5) dengan next hop ke Aceh
 
 ### Sumatera
 ![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/48717136-74d0-4796-8f21-5ccec133f635)
@@ -116,7 +116,7 @@ Pada Sumatera Utara, kita mengarahkan ke subnet 20.0 (A4) dan 21.187 (A5) dengan
 
 ### Kalimantan Selatan
 ![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/a6ace4e0-d99f-4211-a702-7f94e7a0d75c)
-Next hop ke Kalimantan Timur
+- Next hop ke Kalimantan Timur
 
 ### Kalimantan Timur
 ![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/dedfe046-4183-4f0d-9f01-9dc44a194008)
@@ -135,15 +135,15 @@ Next hop ke Kalimantan Timur
 
 ### Belawa
 ![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/94eb0ba5-2f41-4975-a7b0-53e687ec670d)
-Next hop ke Sulawesi
+- Next hop ke Sulawesi
 
 ### Makassar
 ![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/c6c1d87f-8703-41a7-b8b1-b7cfb8003474)
-Next hop ke Sulawesi
+- Next hop ke Sulawesi
 
 ### Maluku Utara
 ![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/2cda504a-4400-4db5-bf45-00cffde6b048)
-Next hop ke Sulawesi
+- Next hop ke Sulawesi
 
 ### Sulawesi
 ![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/98268aab-0d8d-4665-b89f-c783cfdeb5c5)
@@ -155,4 +155,4 @@ Next hop ke Sulawesi
 ### Jawa
 ![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/b19418bd-a4fe-4159-a7cd-e41b07e09a8a)
 ![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/03448087-6932-4c46-b62d-d5e7ccf6db4f)
-Jawa akan bertugas untuk membagi dan mensortir request yang masuk pada setiap subnet, kemudian mengarahkan antara ke Sumatera, Kalimantan, atau Sulawesi
+- Jawa akan bertugas untuk membagi dan mensortir request yang masuk pada setiap subnet, kemudian mengarahkan antara ke Sumatera, Kalimantan, atau Sulawesi
