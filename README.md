@@ -156,3 +156,8 @@
 ![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/b19418bd-a4fe-4159-a7cd-e41b07e09a8a)
 ![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/03448087-6932-4c46-b62d-d5e7ccf6db4f)
 - Jawa akan bertugas untuk membagi dan mensortir request yang masuk pada setiap subnet, kemudian mengarahkan antara ke Sumatera, Kalimantan, atau Sulawesi
+
+## Testing
+https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/2e3252eb-6793-4683-aa2a-477653a8595f
+
+
