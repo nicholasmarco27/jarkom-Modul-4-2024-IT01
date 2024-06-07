@@ -108,8 +108,8 @@
 - Pada Sumatera Utara, kita mengarahkan ke subnet 20.0 (A4) dan 21.187 (A5) dengan next hop ke Aceh
 
 ### Sumatera
-![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/48717136-74d0-4796-8f21-5ccec133f635)
-- Pada Sumatera, kita mengarahkan ke subnet 20.0 (A4) dan 21.187 (A5) dengan next hop ke Sumatera Utara
+![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/0886bf38-58bc-4b6e-ab39-4f0180a7422c)
+- Pada Sumatera, kita mengarahkan ke subnet 20.0 (A4), 21.180 (A3) dan 21.187 (A5) dengan next hop ke Sumatera Utara
 - Subnet 19.0 (A7) dengan next hop ke Lampung
 - Subnet 0.0.0.0 (A2) dengan next hop ke Jawa
 
@@ -154,6 +154,7 @@
 ### Jawa
 ![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/b19418bd-a4fe-4159-a7cd-e41b07e09a8a)
 ![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/03448087-6932-4c46-b62d-d5e7ccf6db4f)
+![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/980be773-a378-4daf-9bbe-5e768243f932)
 - Jawa akan bertugas untuk membagi dan mensortir request yang masuk pada setiap subnet, kemudian mengarahkan antara ke Sumatera, Kalimantan, atau Sulawesi
 
 ## Testing
