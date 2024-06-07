@@ -123,13 +123,13 @@
 - Subnet 0.0.0.0 (A12) dengan next hop ke Kalimantan Utara
 
 ### Kalimantan Utara
-![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/95dd82f3-751e-4788-bc32-5a09bdf6b280)
-- Mengarahkan subnet 21.96 (A14), 0.0 (A15), 16.0 (A12) dengan next hop ke Kalimantan Timur
+![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/ec142fca-2656-4a30-9a49-bc7209f8b969)
+- Mengarahkan subnet 21.96 (A14), 0.0 (A15), 16.0 (A12), 21.200 (A13) dengan next hop ke Kalimantan Timur
 - Subnet 0.0.0.0 (A10) dengan next hop ke Kalimantan
 
 ### Kalimantan
-![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/2059489e-1be8-4617-8c9d-01c5c48175e2)
-- Mengarahkan subnet 21.96 (A14), 0.0 (A15), 16.0 (A12), 18.0 (A10) dengan next hop ke Kalimantan Utara
+![image](https://github.com/nicholasmarco27/jarkom-Modul-4-2024-IT01/assets/80316798/854aee0f-af9f-4d19-8690-5db9aa5a9e9e)
+- Mengarahkan subnet 21.96 (A14), 0.0 (A15), 16.0 (A12), 18.0 (A10), 21.200 (A13), 21.196 (A11) dengan next hop ke Kalimantan Utara
 - Subnet 0.0.0.0 dengan next hop ke Jawa
 
 ### Belawa
